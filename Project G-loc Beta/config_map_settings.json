@@ -1,9 +1,0 @@
-{
-    "map_image": "PAT_-_World_satellite_with_borders.png",
-    "active_dot_color": [255, 0, 0],
-    "inactive_dot_color": [255, 255, 0],
-    "dot_radius": 5,
-    "window_width": 1400,
-    "window_height": 800,
-    "max_thumbnail_size": [320, 240]
-}
