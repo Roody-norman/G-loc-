@@ -37,7 +37,7 @@ We love community contributions! Whether it's fixing bugs, adding new camera sou
 
 ---
 
-### How to Contribute?
+## How to Contribute?
 
 Fork this repository
 
@@ -53,6 +53,8 @@ bash
 git commit -m "Add: My awesome feature"
 git push origin feature/my-feature
 Submit a Pull Request (PR) with a clear explanation of what you changed
+
+---
 
 ## Contribution Guidelines
 
