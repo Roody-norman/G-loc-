@@ -36,6 +36,7 @@
 We love community contributions! Whether it's fixing bugs, adding new camera sources, improving the UI, or optimizing performance — every bit helps G-loc grow .
 
 How to Contribute
+
 Fork this repository
 
 Create a branch for your feature or fix
