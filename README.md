@@ -1,6 +1,6 @@
-#  G-loc – Global Live Observation and Camera Viewer
+#  G-loc 
 
-**G-loc** is a Python application that displays an interactive world map with clickable markers representing real-time public camera feeds from across the globe. Built with `pygame`, it allows users to visually explore live streams simply by clicking on the dots on the map. However this projects initial purpose was to use live camera feeds around the globe and face recognition software to identify a person through the live cameras but because i am a hobbyist coder and code for fun I only got until here (for now).
+**G-loc** or (Project Geo-locate) is a Python application that displays an interactive world map with clickable markers representing real-time public camera feeds from across the globe. Built with `pygame`, it allows users to visually explore live streams simply by clicking on the dots on the map. However this projects initial purpose was to use live camera feeds around the globe and face recognition software to identify a person through the live cameras but because i am a hobbyist coder and code for fun I only got until here (for now).
 
 ---
 
